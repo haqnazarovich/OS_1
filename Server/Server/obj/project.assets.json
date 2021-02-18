@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\dfhhb\\.nuget\\packages\\": {}
+    "C:\\Users\\Fanal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VisualStudio\\TCP\\Server\\Server\\Server.csproj",
+      "projectUniqueName": "D:\\Учеба\\Курсач для Юсуфа\\1_OS\\Server\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\VisualStudio\\TCP\\Server\\Server\\Server.csproj",
-      "packagesPath": "C:\\Users\\dfhhb\\.nuget\\packages\\",
-      "outputPath": "C:\\VisualStudio\\TCP\\Server\\Server\\obj\\",
+      "projectPath": "D:\\Учеба\\Курсач для Юсуфа\\1_OS\\Server\\Server\\Server.csproj",
+      "packagesPath": "C:\\Users\\Fanal\\.nuget\\packages\\",
+      "outputPath": "D:\\Учеба\\Курсач для Юсуфа\\1_OS\\Server\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dfhhb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fanal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
